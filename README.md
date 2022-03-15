@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kennyliveforever.github.io/rsschool-cv/cv
