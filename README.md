@@ -1,1 +1,1 @@
-https://kennyliveforever.github.io/rsschool-cv/cv
+https://kennyliveforever.github.io/rsschool-cv
