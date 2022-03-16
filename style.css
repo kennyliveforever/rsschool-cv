@@ -1,0 +1,79 @@
+
+#hdr {
+    background: linear-gradient(lightslategrey,grey);
+    /*left: 250px;*/
+    height: 215px;
+    padding-top: 15px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.3) 10px 15px 5px;
+    text-align: left;
+    padding-left: 260px;
+}
+
+.img {
+    display: inline;
+    height: 230px;
+    margin-left: 20px;
+    /*border-style: solid;*/
+    /*border-width: 15px;*/
+    /*top: -250px;*/
+    position: absolute;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+    /*box-shadow: rgba(0, 0, 0, 0.3) 10px 10px 5px;*/
+}
+
+#h1 {
+
+}
+
+.bdy {
+    background: darkgrey;
+}
+
+.main {
+    width: auto;
+    height: 400px;
+    position: relative;
+    /*top: -150px;*/
+    background: linear-gradient(lightslategrey,grey);
+    padding: 15px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.3) 10px 15px 5px;
+    align-content: center;
+}
+
+.ftr {
+    width: auto;
+    position: relative;
+    background: linear-gradient(lightslategrey,grey);
+    height: 200px;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.3) 10px 15px 5px;
+    align-content: center;
+
+}
+
+.txt {
+    color: lightyellow;
+    font-family: Ubuntu;
+}
+#hub {
+    margin-left: -300px;
+}
+/*.git {*/
+/*    margin-left: 40px;*/
+/*    margin-top: 20px;*/
+/*}*/
+
+ .rss {
+     margin-left: 30px;
+ }
+#year {
+  margin-top: 60px;
+    text-align: right;
+}
